@@ -17,8 +17,9 @@ Author
 This project analyzes IPL 2022 match-level data to uncover patterns in team success, toss decisions, individual player brilliance, and venue usage. It uses data cleaning, aggregation, and visualization techniques to turn raw match data into meaningful insights.
 
 📂 Dataset
+
 File: IPL.csv
-Size: 74 rows × 20 columns (one row per match)
+Size: 74 rows × 20 columns (one row per match) 
 No missing values, no duplicate rows
 Column	Description
 match_id	Unique match number
@@ -34,6 +35,7 @@ won_by, margin	Runs/Wickets and winning margin
 player_of_the_match	Man of the Match
 top_scorer, highscore	Best batter and score in the match
 best_bowling, best_bowling_figure	Best bowler and figures
+
 🛠 Tools & Libraries
 Python 3
 Pandas – data manipulation
@@ -41,6 +43,7 @@ NumPy – numerical operations
 Matplotlib – plotting
 Seaborn – statistical visualization
 Jupyter Notebook / Google Colab
+
 🔍 Analysis Performed
 Data loading, inspection, null and duplicate checks
 Team-wise match wins
@@ -51,6 +54,7 @@ Most Player of the Match awards
 Top run-scorers
 Top bowlers (by best-bowling wickets)
 Venue-wise match distribution
+
 Record analysis: biggest win margin, highest individual score, best bowling figures
 💡 Key Insights
 🏆 Gujarat Titans won the most matches (12), followed by Rajasthan (10) and Bangalore / Lucknow (9 each).
