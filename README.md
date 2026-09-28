@@ -67,10 +67,10 @@ Record analysis: biggest win margin, highest individual score, best bowling figu
 💥 Biggest win by runs: Chennai by 91 runs.
 🔥 Highest individual score: Quinton de Kock – 140.
 🎳 Best bowling figures of 5 wickets were shared by Yuzvendra Chahal (5/40), Umran Malik (5/25), Wanindu Hasaranga (5/18) and Jasprit Bumrah (5/10).
+
 📁 Project Structure
 IPL-2022-Data-Analysis/
 │
 ├── IPL_2022_Data_Analysis.ipynb   # Main analysis notebook
-├── IPL.csv                        # Dataset
-├── requirements.txt               # Dependencies
+├── IPL.csv                        # Dataset             
 └── README.md                      # Project documentation
